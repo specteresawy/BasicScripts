@@ -7,3 +7,4 @@ echo "I am learning ${learning} to become professional at ${target}"
 #this is a comment
 # upper case is just a convention for variables in your scripts
 
+echo "I want to be good at a $SKILL."
